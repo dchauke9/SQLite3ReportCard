@@ -1,0 +1,87 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@android:color/holo_blue_bright"
+            android:gravity="center_vertical"
+            android:text="List of Apps for CodeTribe"
+            android:textColor="@android:color/white"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/surname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Username" />
+
+        <TextView
+            android:id="@+id/mail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Email Address" />
+
+        <TextView
+            android:id="@+id/appId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="App Id"/>
+
+        <TextView
+            android:id="@+id/app1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="App 1" />
+
+        <TextView
+            android:id="@+id/app2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="App 2" />
+
+        <TextView
+            android:id="@+id/app3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="App 3" />
+
+
+        <TextView
+            android:id="@+id/app4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="App 4"/>
+
+        <TextView
+            android:id="@+id/app5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="App 5" />
+
+
+        <TextView
+            android:id="@+id/app6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="App 6"/>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

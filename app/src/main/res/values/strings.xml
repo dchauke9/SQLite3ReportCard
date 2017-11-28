@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SQLite3 Report Card</string>
+
+    <string name="emptystring" />
+    <string name="title_activity_sign_up">SignUp</string>
+    <string-array name="select">
+        <item>Select</item>
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+
+    <string name="loading">Loading…</string>
+    <string name="hintUsername">USERNAME</string>
+    <string name="hintpass">PASSWORD</string>
+    <string name="hintStudentNo">Email Address</string>
+    <string name="hintMark">mark(%)</string>
+    <string name="hintSub1">Miwok</string>
+    <string name="hintSubject2">Court Counter</string>
+    <string name="hintSuject3">Alex Tour Guide</string>
+    <string name="hintSubject4">Quiz App</string>
+    <string name="hintSubject5">Friendly Chat</string>
+    <string name="hintsubject6">Just Java</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+</resources>

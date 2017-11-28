@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955216773152",
+    "firebase_url": "https://sqlite3-reportcard.firebaseio.com",
+    "project_id": "sqlite3-reportcard",
+    "storage_bucket": "sqlite3-reportcard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955216773152:android:20640d1d344f4f1d",
+        "android_client_info": {
+          "package_name": "com.example.ekasilabalexcdtb.sqlite3reportcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955216773152-c5r84edjvpbstjmg6qstu88sgii0ek6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekasilabalexcdtb.sqlite3reportcard",
+            "certificate_hash": "23a0d4d3a3a5e00571fc8a1bf87f35c70524c73c"
+          }
+        },
+        {
+          "client_id": "955216773152-blc7d90kj63hs8v4el3jt9q0ipjdg94m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBte0la8Lx6kOJszTbA8Etg_LcMpWKmqCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955216773152-blc7d90kj63hs8v4el3jt9q0ipjdg94m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
